@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartCurtains", "SmartCurtains.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "G-LOC", "..\..\G-LOC\G-LOC\G-LOC.vcxproj", "{C26A947F-A91B-45D1-9F49-EFA0016F60DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorldClock", "..\..\..\Documents\Arduino\libraries\Timezone\examples\WorldClock\WorldClock.vcxproj", "{D65CB87C-EB0A-43B2-B926-897B1E87D5F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +19,14 @@ Global
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
 		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{C26A947F-A91B-45D1-9F49-EFA0016F60DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{C26A947F-A91B-45D1-9F49-EFA0016F60DF}.Debug|x86.Build.0 = Debug|Win32
+		{C26A947F-A91B-45D1-9F49-EFA0016F60DF}.Release|x86.ActiveCfg = Release|Win32
+		{C26A947F-A91B-45D1-9F49-EFA0016F60DF}.Release|x86.Build.0 = Release|Win32
+		{D65CB87C-EB0A-43B2-B926-897B1E87D5F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{D65CB87C-EB0A-43B2-B926-897B1E87D5F3}.Debug|x86.Build.0 = Debug|Win32
+		{D65CB87C-EB0A-43B2-B926-897B1E87D5F3}.Release|x86.ActiveCfg = Release|Win32
+		{D65CB87C-EB0A-43B2-B926-897B1E87D5F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
